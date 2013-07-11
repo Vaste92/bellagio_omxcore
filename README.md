@@ -1,4 +1,4 @@
 bellagio_omxcore
 ================
 
-omx source from Sony for kumquat, with no modifications at all!
+Android Gingerbread 2.3.7 OMX source from Sony for kumquat, with no modifications at all!
